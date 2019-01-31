@@ -1,1 +1,3 @@
-Secure JSON web posts- exchange keys with EdDSA and communicate over aes-128.
+Secure JSON web posts from browser to server
+ - exchanges keys with EdDSA
+ - communicates with aes-128
